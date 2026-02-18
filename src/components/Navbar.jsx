@@ -68,7 +68,7 @@ const Navbar = () => {
 
                         {/* Brand */}
                         <div className="font-pixel text-white text-xs md:text-sm animate-pulse cursor-pointer hidden sm:block" onClick={() => scrollToSection('hero')}>
-                            ♥ LVL 18 ♥
+                            LVL 18 
                         </div>
                     </div>
 

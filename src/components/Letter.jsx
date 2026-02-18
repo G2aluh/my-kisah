@@ -1,7 +1,7 @@
 import { motion, useInView } from 'framer-motion';
 import { useRef, useState, useEffect } from 'react';
 
-const fullText = `Hey [Name]!
+const fullText = `Hey Sherly!
 
 LEVEL 18 REACHED! 🌟
 
@@ -17,7 +17,7 @@ Keep grinding and chasing your dreams.
 Game on! 🎮
 
 From,
-[Your Name]`;
+Ur Special Person-`;
 
 const Letter = () => {
     const [displayedText, setDisplayedText] = useState("");
