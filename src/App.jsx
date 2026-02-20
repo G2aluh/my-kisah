@@ -6,6 +6,7 @@ import MiniGame from './components/MiniGame';
 import FinalSurprise from './components/FinalSurprise';
 import CursorEffect from './components/CursorEffect';
 import Navbar from './components/Navbar';
+import SpotifyPlayer from './components/SpotifyPlayer';
 
 function App() {
   return (
@@ -18,6 +19,7 @@ function App() {
       <Letter />
       <MiniGame />
       <FinalSurprise />
+      <SpotifyPlayer />
 
       {/* Retro Footer */}
       <footer className="bg-[#2d1b2e] text-white text-center py-8 border-t-4 border-[#fb7185]">
